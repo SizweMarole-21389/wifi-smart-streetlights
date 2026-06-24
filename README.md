@@ -4,7 +4,7 @@
 ![IoT](https://img.shields.io/badge/Domain-Smart%20City%20%2F%20IoT-00979D?style=for-the-badge)
 ![Ethics](https://img.shields.io/badge/Includes-Ethics%20%26%20Survey-007749?style=for-the-badge)
 
-> Research into Wi-Fi-enabled smart streetlights for smart-city infrastructure — final report,
+> Research into Wi-Fi-enabled smart streetlights for smart-city infrastructure - final report,
 > community survey, ethics application, and supporting academic publications.
 
 ## Overview

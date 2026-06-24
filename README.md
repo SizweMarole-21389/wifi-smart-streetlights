@@ -33,3 +33,12 @@ This research project investigates the design, implementation, and ethical impli
 - IoT and smart infrastructure concepts
 - Research ethics compliance
 - Academic referencing (Mendeley)
+
+---
+
+## License & Third-Party Content
+
+The original research, report, and survey in this repository are my own academic work and may be
+referenced for educational purposes with attribution. The PDFs in the [`publications/`](publications/)
+folder are **third-party academic papers** included for reference only; they remain the property of
+their respective authors and publishers and are **not** covered by any license granted here.

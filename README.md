@@ -14,10 +14,10 @@ This research project investigates the design, implementation, and ethical impli
 
 | File | Description |
 |---|---|
-| `222008531_final_project.pdf` | Final research project report |
+| `final_project.pdf` | Final research project report |
 | `survey.pdf` | Community survey instrument used for data collection |
-| `222008531_Exercise_3_Mendeley_Referencing (2).pdf` | Academic referencing exercise (Mendeley) |
-| `FEBIT-Ethics Application Form 222008531.pdf` | Ethics committee application for research |
+| `Mendeley_Referencing_Exercise.pdf` | Academic referencing exercise (Mendeley) |
+| `FEBIT-Ethics Application Form.pdf` | Ethics committee application for research |
 | `publications/` | Supporting academic publications and references |
 
 ## Research Focus

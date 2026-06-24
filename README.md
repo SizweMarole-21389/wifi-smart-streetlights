@@ -1,5 +1,12 @@
 # Wi-Fi-Enabled Smart Streetlights Research Project
 
+![Research](https://img.shields.io/badge/Type-Academic%20Research-blueviolet?style=for-the-badge)
+![IoT](https://img.shields.io/badge/Domain-Smart%20City%20%2F%20IoT-00979D?style=for-the-badge)
+![Ethics](https://img.shields.io/badge/Includes-Ethics%20%26%20Survey-007749?style=for-the-badge)
+
+> Research into Wi-Fi-enabled smart streetlights for smart-city infrastructure — final report,
+> community survey, ethics application, and supporting academic publications.
+
 ## Overview
 This research project investigates the design, implementation, and ethical implications of Wi-Fi-enabled smart streetlights as part of a smart city infrastructure initiative. The project includes a comprehensive final report, a community survey, supporting publications, and the accompanying ethics application.
 
